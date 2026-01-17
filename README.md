@@ -22,7 +22,7 @@ Dieses Repository enthält:
 
 📁 Projektstruktur
 
-`
+```
 pythonchain/
 ├─ README.md
 ├─ requirements.txt
@@ -37,7 +37,7 @@ pythonchain/
    ├─ index.html
    ├─ style.css
    └─ app.js
-`
+```
 
 Backend (pythonchain/)
 Enthält die komplette Blockchain‑Logik:
